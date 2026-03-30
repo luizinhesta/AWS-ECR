@@ -11,7 +11,7 @@ O foco principal é mostrar, na prática, a transformação de um sistema simple
 - ⚙️ DevOps  
 - 🏗️ Arquitetura distribuída  
 
-![Amazon ECS](imagens/amazon-ECS.jpg)
+![Amazon ECS](imagens/Amazon-ECS.jpg)
 
 ---
 
